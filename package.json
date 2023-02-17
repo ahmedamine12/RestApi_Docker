@@ -1,0 +1,18 @@
+{
+  "name": "apidocker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.0",
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2"
+  },
+  "type": "module"
+}
